@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  <h1 align="left">Hello world</h1>
+
+<h1 align="left">Hello world</h1>
 
 
 <p align="left">My name is marcioviniciuss and I'm a passionate junior frontend developer from Brazil</p>
