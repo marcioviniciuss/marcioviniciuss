@@ -1,3 +1,4 @@
+
 <h1 align="left">Hello world</h1>
 
 ###
@@ -28,5 +29,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/marcioviniciuss/marcioviniciuss/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/user-attachments/assets/097bf88e-4104-4d4b-a487-4883bf7d717f" alt="Imagem exemplo" style="width: 100%; height: auto;">
+
 
