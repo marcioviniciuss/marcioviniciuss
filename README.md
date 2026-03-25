@@ -7,8 +7,8 @@
 ### 🧠 About Me
 
 - 🐞 Creating bugs since **2023**  
-- 📚 Currently diving into **Java**  
-- 🎯 Next stops: **Spring Boot**, **Spring Security**, **AWS**  
+- 📚 Currently diving into **Java & Spring Boot**  
+- 🎯 Next stops: **Spring Security**, **AWS**  
 - 💻 Fun fact: I got into programming because I wanted to be a hacker. *Yep, true story.* 😅  
 
 ---
