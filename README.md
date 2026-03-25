@@ -28,7 +28,7 @@
 ### 🚀 Let's connect!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/marcioviniciuss/" target="_blank">
+  <a href="https://www.linkedin.com/in/márcio-viníciuss/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vmarcio469@gmail.com">
