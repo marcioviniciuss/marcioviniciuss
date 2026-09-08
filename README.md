@@ -29,9 +29,8 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Contribuições
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcioviniciuss&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcioviniciuss&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Top Languages" />
-</div>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcioviniciuss&theme=radium&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" alt="GitHub Streak" width="70%"/>
+</p>
